@@ -1,0 +1,5 @@
+# Names of YOUR company, one per line (case and accents are ignored).
+# A block carrying one of these names is read as the CUSTOMER, never as the supplier.
+HITA
+HUILERIE INDUSTRIELLE DE TAMATAVE
+HUILERIE INDUSTRIELLE DE TOAMASINA
